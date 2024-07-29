@@ -1,0 +1,80 @@
+|-- |-- /wrapper
+|-- /.mvn
+|-- |-- |-- |-- |-- |-- |-- User.java
+|-- |-- |-- |-- |-- |-- |-- UserRepository.java
+|-- |-- |-- |-- |-- |-- |-- DataSeeder.java
+|-- |-- |-- |-- |-- |-- DataLoader.java
+|-- |-- |-- |-- |-- |-- DemoApplication.java
+|-- |-- |-- |-- |-- |-- /entity
+|-- |-- |-- |-- |-- |-- /repository
+|-- |-- |-- |-- |-- |-- /seeder
+|-- |-- |-- |-- |-- |-- |-- UserController.java
+|-- |-- |-- |-- |-- |-- |-- User.java
+|-- |-- |-- |-- |-- |-- RestapiApplication.java
+|-- |-- |-- |-- |-- |-- /controller
+|-- |-- |-- |-- |-- |-- /model
+|-- |-- |-- |-- |-- /demo
+|-- |-- |-- |-- |-- /restapi
+|-- |-- |-- |-- /example
+|-- |-- |-- /com
+|-- |-- |-- application.properties
+|-- |-- |-- /static
+|-- |-- |-- /templates
+|-- |-- /java
+|-- |-- /resources
+|-- |-- |-- |-- |-- |-- RestapiApplicationTests.java
+|-- |-- |-- |-- |-- /restapi
+|-- |-- |-- |-- /example
+|-- |-- |-- /com
+|-- |-- /java
+|-- /main
+|-- /test
+|-- |-- |-- |-- |-- |-- User.class
+|-- |-- |-- |-- |-- |-- UserRepository.class
+|-- |-- |-- |-- |-- |-- DataSeeder.class
+|-- |-- |-- |-- |-- DataLoader.class
+|-- |-- |-- |-- |-- DemoApplication.class
+|-- |-- |-- |-- |-- /entity
+|-- |-- |-- |-- |-- /repository
+|-- |-- |-- |-- |-- /seeder
+|-- |-- |-- |-- |-- |-- UserController.class
+|-- |-- |-- |-- |-- |-- User.class
+|-- |-- |-- |-- |-- RestapiApplication.class
+|-- |-- |-- |-- |-- /controller
+|-- |-- |-- |-- |-- /model
+|-- |-- |-- |-- /demo
+|-- |-- |-- |-- /restapi
+|-- |-- |-- /example
+|-- |-- application.properties
+|-- |-- /com
+|-- |-- /annotations
+|-- |-- /test-annotations
+|-- |-- |-- |-- |-- createdFiles.lst
+|-- |-- |-- |-- |-- inputFiles.lst
+|-- |-- |-- |-- /default-compile
+|-- |-- |-- |-- |-- createdFiles.lst
+|-- |-- |-- |-- |-- inputFiles.lst
+|-- |-- |-- |-- /default-testCompile
+|-- |-- |-- /compile
+|-- |-- |-- /testCompile
+|-- |-- /maven-compiler-plugin
+|-- |-- |-- |-- |-- RestapiApplicationTests.class
+|-- |-- |-- |-- /restapi
+|-- |-- |-- /example
+|-- |-- /com
+|-- /classes
+|-- /generated-sources
+|-- /generated-test-sources
+|-- /maven-status
+|-- /test-classes
+.gitignore
+HELP.md
+maven-wrapper.properties
+mvnw
+mvnw.cmd
+pom.xml
+/restapi
+restapi.zip
+skeleton.txt
+/src
+/target
